@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Site Android]
-description: [Primeiro projeto prático de HTML e CSS.]
+description: [Site feito como projeto prático de um desafio do Curso em Vídeo.]
